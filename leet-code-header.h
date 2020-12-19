@@ -3,6 +3,7 @@
 #include <iostream>
 #include <list>
 #include <map>
+#include <numeric>
 #include <stack>
 #include <string>
 #include <unordered_map>
